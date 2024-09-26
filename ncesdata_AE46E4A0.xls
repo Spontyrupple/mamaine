@@ -1,0 +1,720 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+
+<!-- ENCRYPT:E7623B69::F5:47:6E:FB:93:2:74:83:CE:D1:BF:A8:29:9C:D7:81:1E:8A:37:8F:2B:4D:6B:AD:DB:DC:84:49:60:B3:F2:2A:A:19:E:D5:74:9A:78:B6:FA:CE:A6:4E:6C:AB:4B:9:A1:F5:F5:50:35:F7:FC:91:6A:6F:48:DF:B3:B5:79:8C:CA:E:34:EB:8B:FB:B3:72:52:BD:69:FD:D2:5D:FD:70:30:BD:D8:9:5:6D:C2:DC:F8:7B:F4:16:86:85:83:A5:D0:2C:C6:6D:74:EC:B:74:65:74:26:22:AC:6F:4F:86:D7:22:B3:44:47:11:81:21:91:27:DD:D7:D7:CA:A3:D4:46:5A:F4:EA:99:F8:F0:B3:79:52:29:C0:A1:44:31:F5:5A:42:C5:17:33:C:BB:5B:4C:4B:43:43:76:A2:F8:EE:B3:47:2:4C:55:D3:6:A9:65:BA:80:98:79:37:32:FE:1:C2:65:2:C:51:0:7:B4:A0:70:B:46:E6:D0:90:DA:BE:BB:17:C2:15:73:1A:45:DC:F3:99:64:CD:DD:80:36:3B:1F:C9:18:6A:4D:E9:B5:25:17:4E:84:F3:9B:89:91:41:3F:5B:F1:47:C:F1:32:7:B1:2:8F:EF:D8:73:FD:CA:EB:18:F5:B7:C:EA:34:5A:4C:77:C6:F8:F9:8B:EC:EE:45:80:4C:CA:CF:4C:71:4A:F6:F8:2C:A4:11:95:5E:7D:D1:78:F7:6C:59:AA:55:78:C9:FC:BD:45:4C:F1:FE:83:2A:1C:7B:62:A4:C2:CB:B8:CA:7C:E2:9C:9:94:2E:6E:40:BD:92:49:BC:3D:63:2A:25:15:6F:D0:E4:D6:5F:DD:75:2E:51:8B:F1:72:1F:70:7D:18:D8:6A:B2:3D:B6:1:8E:F5:16:5E:E6:71:ED:8C:E4:8E:B1:8D:A5:3F:CE:24:47:55:3D:4F:65:78:CB:C7:A7:40:53:BA:DA:B4:8:55:FD:38:14:2B:88:32:B3:EE:11:FB:5D:C6:2C:C5:E3:59:13:FD:97:86:AB:FC:EB:E1:97:6F:FB:9:23:AE:12:8D:34:59:2:86:8C:DB:9D:41:90:6D:E9:98:5C:7B:68:75:7E:86:82:88:F9:10:BE:E:56:C9:14:A0:20:C8:91:97:30:7:52:0:A1:2B:E:E0:EC:29:58:92:B3:A:12:D0:22:AB:F1:BB:EC:44:C9:F4:9A:18:9B:DB:43:FD:A7:FC:1E:A2:FB:F0:75:93:7D:48:72:F7:C0:96:38:8B:AB:EA:E6:9A:1F:37:43:62:B5:15:FD:94:8C:B4:8D:DF:C3:70:3C:30:8A:5A:8E:DA:DB:46:EC:1A:9C:8E:47:7B:57:99:62:14:DE:2:94:C6:25:AF:A9:42:13:53:7C:34:67:32:A8:C8:38:45:22:DD:41:59:39:EC:F8:80:A:7D:9D:A:58:BE:A7:FB:F2:41:E6:B3:B4:19:6:FD:AE:4E:A6:31:31:25:9A:FF:54:B1:8E:5D:64:14:C8:0:B0:DE:9:98:26:80:BE:FB:3D:83:3B:1:56:C3:BF:32:49:7F:EF:C3:BD:D7:1C:CA:7A:37:81:2D:93:C:AF:C8:EF:27:7D:44:F9:9B:EC:DC:6D:33:29:70:97:95:E7:87:C8:8F:92:D1:91:3F:72:F1:8C:7F:C9:98:28:3:AC:5D:B0:35:46:76:6C:DB:82:58:DC:41:6E:59:16:8A:9E:ED:21:76:81:5A:A6:24:5:25:F1:72:41:11:CE:4A:1:AA:86:41:E2:35:D7:4C:EA:C2:6E:67:73:3:DB:5E:98:D3:6B:82:93:F2:E9:39:19:93:52:C8:34:C6:5C:D9:DC:9F:D7:D8:C4:3A:D1:19:2C:5F:29:A0:E:58:6F:A6:76:E4:F2:36:45:31:F4:6E:8B:D4:9C:B5:61:98:3D:A8:61:A4:17:80:12:2C:48:E0:51:3:40:8A:8:C:25:7D:53:AD:98:81:F5:A1:DA:44:61:31:BB:1B:EF:4B:DD:A2:8E:E3:82:5C:41:C8:E8:88:7D:A7:45:48:18:ED:37:35:C1:DE:4A:B5:F9:CA:75:92:A7:E2:45:AF:1C:48:DA:29:76:5B:7E:CB:AE:4E:A7:5F:3C:85:DA:21:3F:B6:2E:F5:50:20:8B:D:E3:70:D1:CE:BE:DA:1A:37:85:21:ED:1C:AB:8B:5A:25:FE:D2:1D:15:75:38:5C:CD:8C:FA:D:E8:FF:2B:74:94:31:59:3C:B7:B0:59:EB:36:3B:B:B0:22:73:6F:2A:2A:E9:F5:EF:41:55:73:BC:55:78:36:AE:29:2:3F:D7:76:88:C9:6:14:1E:48:E8:78:84:4B:A5:26:99:63:C0:E5:1:AE:DF:B4:8B:5B:48:89:53:2D:64:DA:DA:DB:A9:7C:C9:C8:2:5F:54:27:DD:DD:8A:FD:0:A:76:7B:56:33:A3:A6:B9:67:42:DE:66:B7:E4:D9:46:E8:93:70:D1:40:BB:F6:EC:5D:44:84:29:51:1D:2:AB:F2:8C:A9:94:76:53:5D:AA:C:73:51:D:30:F3:13:90:E:BC:B1:95:A9:55:70:59:21:35:95:86:A:79:D:70:B8:D9:67:5F:B3:80:7B:82:9C:46:9E:B9:47:99:25:3A:63:56:B0:32:AF:22:95:D6:A0:3F:3C:6D:13:F2:21:8D:4F:79:9A:7:2D:4F:91:C7:B5:91:EA:E1:8F:99:8A:B8:A7:8C:8:59:8B:E3:D2:6C:4B:53:32:1D:9A:26:59:10:95:F6:23:98:CA:B9:6D:D2:F7:C0:C7:F7:64:C6:9A:CF:83:5F:B7:61:EC:10:27:CA:CF:50:D5:4:0:A0:A8:F9:7E:AC:C1:7C:43:34:F4:D2:B1:66:71:B8:DC:6D:E:BF:C7:E7:43:A7:9:8:53:8B:79:91:F1:8A:0:1E:75:11:7:40:55:42:5:96:13:E8:DA:8B:BD:EE:C:76:3D:9A:A0:DA:28:25:44:F3:35:22:15:2E:B0:AE:34:1D:7E:A:6C:32:5D:28:8:EE:EC:FD:D3:97:1A:3:FE:65:AE:A8:61:65:EB:2:27:17:D7:3A:2C:7C:90:31:72:B3:FA:81:2C:FA:6C:12:11:5A:35:56:89:1C:92:9D:96:B9:7F:B0:82:21:ED:5E:A6:3D:FD:6F:4C:46:50:F0:BC:9D:67:D3:88:8F:18:8D:1A:DC:AB:FB:C2:8F:5D:D3:6E:44:2:C:74:39:1:FB:41:59:5A:FB:51:9D:D9:50:5D:78:93:72:23:BD:D:8B:B7:96:AF:70:52:5D:B6:51:EE:9C:8:F8:0:80:D8:33:8:F6:10:48:AE:98:77:97:93:58:84:29:6B:5C:42:9D:C5:3D:5E:53:56:F1:36:19:D4:38:B8::5EFCD243:ENCRYPT -->
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+
+<title>National Center for Education Statistics</title>
+
+<style>
+<!--
+.txtcol
+	{
+	mso-number-format:"\@";
+	font-size:8pt;
+	mso-width-source:auto;
+	}
+.numcol
+	{
+	mso-number-format:"general";
+	text-align:right;
+	font-size:8pt;
+	mso-width-source:auto;
+	}
+.headrow
+	{
+	border-bottom-style: solid;
+	border-top-style: solid;
+	border-bottom-color: #000000;
+	border-top-color: #000000;
+	font-size:8pt;
+	mso-width-source:auto;
+	}
+-->
+</style>
+
+</head>
+<body>
+
+<table border=1 bordercolor=#bbbbbb cellpadding=0 cellspacing=0>
+<tr>
+  <td height=31 colspan=6 valign=bottom style="border-style: solid; border-color: #FFFFFF"><font size=5 face=impact><b>National Center for Education Statistics</font></b></td>
+</tr>
+<tr>
+  <td height=25 colspan=6 valign=bottom style="border-style: solid; border-color: #FFFFFF"><font size=3><b>CCD public school district data 2022-2023, 2023-2024 school years</b></font></td>
+</tr>
+<tr>
+  <td height=30 colspan=6 valign=top style="border-style: solid; border-color: #FFFFFF">The file contains (<B>32</B>) records based on your search.</td>
+</tr>
+<tr>
+  <td height=48 colspan=6 valign=top style="border-style: solid; border-color: #FFFFFF"><font size=1><strong>NOTES:</strong><ul><li class='noteAsterisk'>* denotes a column with data from 2023-2024</li><li>[ † ] indicates that the data are not applicable. For example, the enrollment and staff characteristics for districts that opened in the 2023-2024 school year will not be available until the full 2023-2024 file is released.</li><li>[ – ] indicates that the data are missing.</li><li>[ ‡ ] indicates that the data do not meet NCES data quality standards.</li><li>The directory information on district name, address, and phone number are preliminary data from initial submissions of district level data for 2023-2024.</li><li>Data provided on student membership and staffing are from the official district level data for 2022-2023.</li></ul><strong>SEARCH CRITERIA:</strong> State: "Washington" - County: "king"</font></td>
+</tr>
+<tr>
+  <td height=30 colspan=6 valign=top style="border-style: solid; border-color: #FFFFFF"><font size=1>NCES is not responsible for the manner in which this data is presented. This data is provided as an extra service to the user. To download full CCD datasets, please go to the CCD homepage. <B>http://nces.ed.gov/ccd</B></font></td>
+</tr>
+<TR height=17>
+  <TD class="headrow"><b>NCES District ID</b></TD>
+  <TD class="headrow"><b>State District ID</b></TD>
+  <TD class="headrow"><b>District Name</b></TD>
+  <TD class="headrow"><b>County Name*</b></TD>
+  <TD class="headrow"><b>Street Address</b></TD>
+  <TD class="headrow"><b>City</b></TD>
+  <TD class="headrow"><b>State</b></TD>
+  <TD class="headrow"><b>ZIP</b></TD>
+  <TD class="headrow"><b>ZIP 4-digit</b></TD>
+  <TD class="headrow"><b>Phone</b></TD>
+  <TD class="headrow"><b>Students*</b></TD>
+  <TD class="headrow"><b>Teachers*</b></TD>
+  <TD class="headrow"><b>Schools</b></TD>
+  <TD class="headrow"><b>Locale Code*</b></TD>
+  <TD class="headrow"><b>Locale*</b></TD>
+  <TD class="headrow"><b>Student Teacher Ratio*</b></TD>
+  <TD class="headrow"><b>Type</b></TD>
+  <TD class="headrow"><b>Status</b></TD>
+</TR>
+
+<TR height=17>
+  <TD class="txtcol">5300300</TD>
+  <TD class="txtcol">WA-17408</TD>
+  <TD class="txtcol">Auburn School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">915 4TH ST NE</TD>
+  <TD class="txtcol">AUBURN</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98002</TD>
+  <TD class="txtcol">4452</TD>
+  <TD class="txtcol">(253)931-4900</TD>
+  <TD class="txtcol">17857.00000</TD>
+  <TD class="txtcol">1054.72000</TD>
+  <TD class="txtcol">26.00000</TD>
+  <TD class="txtcol">13</TD>
+  <TD class="txtcol">City: Small</TD>
+  <TD class="txtcol">16.93000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300390</TD>
+  <TD class="txtcol">WA-17405</TD>
+  <TD class="txtcol">Bellevue School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">PO BOX 90010</TD>
+  <TD class="txtcol">BELLEVUE</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98005</TD>
+  <TD class="txtcol">3183</TD>
+  <TD class="txtcol">(425)456-4000</TD>
+  <TD class="txtcol">19089.00000</TD>
+  <TD class="txtcol">1057.60000</TD>
+  <TD class="txtcol">30.00000</TD>
+  <TD class="txtcol">12</TD>
+  <TD class="txtcol">City: Midsize</TD>
+  <TD class="txtcol">18.05000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300001</TD>
+  <TD class="txtcol">WA-17216</TD>
+  <TD class="txtcol">Enumclaw School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">2929 MCDOUGALL AVE</TD>
+  <TD class="txtcol">ENUMCLAW</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98022</TD>
+  <TD class="txtcol">7499</TD>
+  <TD class="txtcol">(360)802-7100</TD>
+  <TD class="txtcol">4436.00000</TD>
+  <TD class="txtcol">240.71000</TD>
+  <TD class="txtcol">10.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">18.43000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5302820</TD>
+  <TD class="txtcol">WA-17210</TD>
+  <TD class="txtcol">Federal Way School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">33330 8th AVE S</TD>
+  <TD class="txtcol">FEDERAL WAY</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98003</TD>
+  <TD class="txtcol">5433</TD>
+  <TD class="txtcol">(253)945-2000</TD>
+  <TD class="txtcol">21606.00000</TD>
+  <TD class="txtcol">1184.37000</TD>
+  <TD class="txtcol">46.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">18.24000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300326</TD>
+  <TD class="txtcol">WA-17935</TD>
+  <TD class="txtcol">Green River College</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">12401 SE 320TH ST</TD>
+  <TD class="txtcol">AUBURN</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98002</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(253)833-9111</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">0.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+  <TD class="txtcol">13</TD>
+  <TD class="txtcol">City: Small</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Other</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5303540</TD>
+  <TD class="txtcol">WA-17401</TD>
+  <TD class="txtcol">Highline School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">15675 AMBAUM BLVD SW</TD>
+  <TD class="txtcol">BURIEN</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98166</TD>
+  <TD class="txtcol">0100</TD>
+  <TD class="txtcol">(206)631-3000</TD>
+  <TD class="txtcol">18048.00000</TD>
+  <TD class="txtcol">1010.27000</TD>
+  <TD class="txtcol">43.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">17.86000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300345</TD>
+  <TD class="txtcol">WA-17911</TD>
+  <TD class="txtcol">Impact | Puget Sound Elementary</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">3438 S 148th St</TD>
+  <TD class="txtcol">Tukwila</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98168</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(206)712-7640</TD>
+  <TD class="txtcol">596.00000</TD>
+  <TD class="txtcol">38.10000</TD>
+  <TD class="txtcol">1.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">15.64000000</TD>
+  <TD class="txtcol">Charter</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300348</TD>
+  <TD class="txtcol">WA-17916</TD>
+  <TD class="txtcol">Impact | Salish Sea Elementary</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">3900 Holly Park Drive South</TD>
+  <TD class="txtcol">Seattle</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98118</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(206)712-7640</TD>
+  <TD class="txtcol">342.00000</TD>
+  <TD class="txtcol">28.00000</TD>
+  <TD class="txtcol">1.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">12.21000000</TD>
+  <TD class="txtcol">Charter</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5303750</TD>
+  <TD class="txtcol">WA-17411</TD>
+  <TD class="txtcol">Issaquah School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">5150 220th Ave SE</TD>
+  <TD class="txtcol">ISSAQUAH</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98029</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(425)837-7000</TD>
+  <TD class="txtcol">19524.00000</TD>
+  <TD class="txtcol">1027.63000</TD>
+  <TD class="txtcol">30.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">19.00000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5303960</TD>
+  <TD class="txtcol">WA-17415</TD>
+  <TD class="txtcol">Kent School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">12033 SE 256TH ST</TD>
+  <TD class="txtcol">KENT</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98031</TD>
+  <TD class="txtcol">6643</TD>
+  <TD class="txtcol">(253)373-7000</TD>
+  <TD class="txtcol">25586.00000</TD>
+  <TD class="txtcol">1517.18000</TD>
+  <TD class="txtcol">46.00000</TD>
+  <TD class="txtcol">12</TD>
+  <TD class="txtcol">City: Midsize</TD>
+  <TD class="txtcol">16.86000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300313</TD>
+  <TD class="txtcol">WA-17937</TD>
+  <TD class="txtcol">Lake Washington Institute of Technology</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">11605 132ND AVE NE</TD>
+  <TD class="txtcol">KIRKLAND</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98034</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(425)739-8100</TD>
+  <TD class="txtcol">577.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+  <TD class="txtcol">2.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Other</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5304230</TD>
+  <TD class="txtcol">WA-17414</TD>
+  <TD class="txtcol">Lake Washington School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">PO BOX 97039</TD>
+  <TD class="txtcol">REDMOND</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98073</TD>
+  <TD class="txtcol">9739</TD>
+  <TD class="txtcol">(425)936-1200</TD>
+  <TD class="txtcol">30991.00000</TD>
+  <TD class="txtcol">1758.46000</TD>
+  <TD class="txtcol">57.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">17.62000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5304980</TD>
+  <TD class="txtcol">WA-17400</TD>
+  <TD class="txtcol">Mercer Island School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">4160 86TH AVE SE</TD>
+  <TD class="txtcol">MERCER ISLAND</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98040</TD>
+  <TD class="txtcol">4196</TD>
+  <TD class="txtcol">(206)236-3300</TD>
+  <TD class="txtcol">4057.00000</TD>
+  <TD class="txtcol">215.28000</TD>
+  <TD class="txtcol">6.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">18.85000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300006</TD>
+  <TD class="txtcol">WA-17801</TD>
+  <TD class="txtcol">Puget Sound Educational Service District 121</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">800 Oakesdale Ave SW</TD>
+  <TD class="txtcol">Renton</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98057</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(425)917-7600</TD>
+  <TD class="txtcol">0.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+  <TD class="txtcol">1.00000</TD>
+  <TD class="txtcol">12</TD>
+  <TD class="txtcol">City: Midsize</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Other</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300335</TD>
+  <TD class="txtcol">WA-17908</TD>
+  <TD class="txtcol">Rainier Prep Charter School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">10211 S 12th Ave</TD>
+  <TD class="txtcol">Seattle</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98168</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(206)494-5979</TD>
+  <TD class="txtcol">330.00000</TD>
+  <TD class="txtcol">24.90000</TD>
+  <TD class="txtcol">1.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">13.25000000</TD>
+  <TD class="txtcol">Charter</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300342</TD>
+  <TD class="txtcol">WA-17910</TD>
+  <TD class="txtcol">Rainier Valley Leadership Academy</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">6020 Rainier Avenue S.</TD>
+  <TD class="txtcol">Seattle</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98118</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(206)659-0956</TD>
+  <TD class="txtcol">145.00000</TD>
+  <TD class="txtcol">12.89000</TD>
+  <TD class="txtcol">1.00000</TD>
+  <TD class="txtcol">11</TD>
+  <TD class="txtcol">City: Large</TD>
+  <TD class="txtcol">11.25000000</TD>
+  <TD class="txtcol">Charter</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5307230</TD>
+  <TD class="txtcol">WA-17403</TD>
+  <TD class="txtcol">Renton School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">300 SW 7TH ST</TD>
+  <TD class="txtcol">RENTON</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98057</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(425)204-2300</TD>
+  <TD class="txtcol">15230.00000</TD>
+  <TD class="txtcol">824.90000</TD>
+  <TD class="txtcol">31.00000</TD>
+  <TD class="txtcol">12</TD>
+  <TD class="txtcol">City: Midsize</TD>
+  <TD class="txtcol">18.46000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300325</TD>
+  <TD class="txtcol">WA-17941</TD>
+  <TD class="txtcol">Renton Technical College</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">3000 NE 4TH STREET</TD>
+  <TD class="txtcol">RENTON</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98056</TD>
+  <TD class="txtcol">4195</TD>
+  <TD class="txtcol">(425)243-2366</TD>
+  <TD class="txtcol">93.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+  <TD class="txtcol">2.00000</TD>
+  <TD class="txtcol">12</TD>
+  <TD class="txtcol">City: Midsize</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Other</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5304560</TD>
+  <TD class="txtcol">WA-17407</TD>
+  <TD class="txtcol">Riverview School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">PO Box 519</TD>
+  <TD class="txtcol">DUVALL</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98019</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(425)844-4500</TD>
+  <TD class="txtcol">3111.00000</TD>
+  <TD class="txtcol">171.69000</TD>
+  <TD class="txtcol">8.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">18.12000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300323</TD>
+  <TD class="txtcol">WA-17942</TD>
+  <TD class="txtcol">Seattle Central Community College</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">1701 BROADWAY</TD>
+  <TD class="txtcol">SEATTLE</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98122</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(206)587-4974</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">0.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+  <TD class="txtcol">11</TD>
+  <TD class="txtcol">City: Large</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Other</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5307710</TD>
+  <TD class="txtcol">WA-17001</TD>
+  <TD class="txtcol">Seattle School District No. 1</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">PO BOX 34165</TD>
+  <TD class="txtcol">SEATTLE</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98124</TD>
+  <TD class="txtcol">1165</TD>
+  <TD class="txtcol">(206)252-0010</TD>
+  <TD class="txtcol">51238.00000</TD>
+  <TD class="txtcol">3165.52000</TD>
+  <TD class="txtcol">109.00000</TD>
+  <TD class="txtcol">11</TD>
+  <TD class="txtcol">City: Large</TD>
+  <TD class="txtcol">16.19000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5307920</TD>
+  <TD class="txtcol">WA-17412</TD>
+  <TD class="txtcol">Shoreline School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">18560 1ST AVE NE</TD>
+  <TD class="txtcol">SHORELINE</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98155</TD>
+  <TD class="txtcol">2118</TD>
+  <TD class="txtcol">(206)393-4203</TD>
+  <TD class="txtcol">9564.00000</TD>
+  <TD class="txtcol">472.02000</TD>
+  <TD class="txtcol">18.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">20.26000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5307980</TD>
+  <TD class="txtcol">WA-17404</TD>
+  <TD class="txtcol">Skykomish School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">PO BOX 325</TD>
+  <TD class="txtcol">SKYKOMISH</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98288</TD>
+  <TD class="txtcol">0325</TD>
+  <TD class="txtcol">(360)677-2623</TD>
+  <TD class="txtcol">40.00000</TD>
+  <TD class="txtcol">9.00000</TD>
+  <TD class="txtcol">2.00000</TD>
+  <TD class="txtcol">42</TD>
+  <TD class="txtcol">Rural: Distant</TD>
+  <TD class="txtcol">4.44000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5308040</TD>
+  <TD class="txtcol">WA-17410</TD>
+  <TD class="txtcol">Snoqualmie Valley School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">PO BOX 400</TD>
+  <TD class="txtcol">SNOQUALMIE</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98065</TD>
+  <TD class="txtcol">0400</TD>
+  <TD class="txtcol">(425)831-8000</TD>
+  <TD class="txtcol">7086.00000</TD>
+  <TD class="txtcol">409.57000</TD>
+  <TD class="txtcol">13.00000</TD>
+  <TD class="txtcol">31</TD>
+  <TD class="txtcol">Town: Fringe</TD>
+  <TD class="txtcol">17.30000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300321</TD>
+  <TD class="txtcol">WA-17946</TD>
+  <TD class="txtcol">South Seattle Community College</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">6000 16TH AVE S.W.</TD>
+  <TD class="txtcol">SEATTLE</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98106</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(206)934-5300</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">0.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+  <TD class="txtcol">11</TD>
+  <TD class="txtcol">City: Large</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Other</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300343</TD>
+  <TD class="txtcol">WA-17905</TD>
+  <TD class="txtcol">Summit Public School: Atlas</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">9601 35th Ave SW</TD>
+  <TD class="txtcol">Seattle</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98104</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(253)987-1535</TD>
+  <TD class="txtcol">458.00000</TD>
+  <TD class="txtcol">30.00000</TD>
+  <TD class="txtcol">1.00000</TD>
+  <TD class="txtcol">11</TD>
+  <TD class="txtcol">City: Large</TD>
+  <TD class="txtcol">15.27000000</TD>
+  <TD class="txtcol">Charter</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300334</TD>
+  <TD class="txtcol">WA-17902</TD>
+  <TD class="txtcol">Summit Public School: Sierra</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">1025 S King Street</TD>
+  <TD class="txtcol">Seattle</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98104</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(206)453-2520</TD>
+  <TD class="txtcol">235.00000</TD>
+  <TD class="txtcol">17.00000</TD>
+  <TD class="txtcol">1.00000</TD>
+  <TD class="txtcol">11</TD>
+  <TD class="txtcol">City: Large</TD>
+  <TD class="txtcol">13.82000000</TD>
+  <TD class="txtcol">Charter</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5308760</TD>
+  <TD class="txtcol">WA-17409</TD>
+  <TD class="txtcol">Tahoma School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">25720 MAPLE VALLEY BLK DIAM RD</TD>
+  <TD class="txtcol">MAPLE VALLEY</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98038</TD>
+  <TD class="txtcol">8313</TD>
+  <TD class="txtcol">(425)413-3400</TD>
+  <TD class="txtcol">9112.00000</TD>
+  <TD class="txtcol">475.27000</TD>
+  <TD class="txtcol">10.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">19.17000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5308130</TD>
+  <TD class="txtcol">WA-17406</TD>
+  <TD class="txtcol">Tukwila School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">4640 S 144TH ST</TD>
+  <TD class="txtcol">TUKWILA</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98168</TD>
+  <TD class="txtcol">4134</TD>
+  <TD class="txtcol">(206)901-8000</TD>
+  <TD class="txtcol">2715.00000</TD>
+  <TD class="txtcol">161.87000</TD>
+  <TD class="txtcol">8.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">16.77000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300320</TD>
+  <TD class="txtcol">WA-17904</TD>
+  <TD class="txtcol">University of Washington (17904)</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">1400 NE Campus Parkway</TD>
+  <TD class="txtcol">SEATTLE</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98195</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(206)543-2100</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">0.00000</TD>
+  <TD class="txtcol">0.00000</TD>
+  <TD class="txtcol">11</TD>
+  <TD class="txtcol">City: Large</TD>
+  <TD class="txtcol">&dagger;</TD>
+  <TD class="txtcol">Other</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5309300</TD>
+  <TD class="txtcol">WA-17402</TD>
+  <TD class="txtcol">Vashon Island School District</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">P O Box 547</TD>
+  <TD class="txtcol">VASHON</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98070</TD>
+  <TD class="txtcol">0547</TD>
+  <TD class="txtcol">(206)463-8530</TD>
+  <TD class="txtcol">1539.00000</TD>
+  <TD class="txtcol">76.70000</TD>
+  <TD class="txtcol">5.00000</TD>
+  <TD class="txtcol">41</TD>
+  <TD class="txtcol">Rural: Fringe</TD>
+  <TD class="txtcol">20.07000000</TD>
+  <TD class="txtcol">Regular Local</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+<TR height=17>
+  <TD class="txtcol">5300349</TD>
+  <TD class="txtcol">WA-17917</TD>
+  <TD class="txtcol">Why Not You Academy</TD>
+  <TD class="txtcol">King County</TD>
+  <TD class="txtcol">22419 Pacific Highway South</TD>
+  <TD class="txtcol">Des Moines</TD>
+  <TD class="txtcol">WA</TD>
+  <TD class="txtcol">98198</TD>
+  <TD class="txtcol"></TD>
+  <TD class="txtcol">(253)339-8601</TD>
+  <TD class="txtcol">146.00000</TD>
+  <TD class="txtcol">11.10000</TD>
+  <TD class="txtcol">1.00000</TD>
+  <TD class="txtcol">21</TD>
+  <TD class="txtcol">Suburb: Large</TD>
+  <TD class="txtcol">13.15000000</TD>
+  <TD class="txtcol">Charter</TD>
+  <TD class="txtcol">Open</TD>
+</TR>
+</TABLE></BODY></HTML>
