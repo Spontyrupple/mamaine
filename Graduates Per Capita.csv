@@ -1,0 +1,40 @@
+Geo_FIPS,Geo_QName,Geo_STUSAB,Geo_SUMLEV,Geo_GEOCOMP,Geo_US,Geo_REGION,Geo_DIVISION,Geo_STATE,Geo_COUNTY,Geo_COUSUB,Geo_PLACE,Geo_TRACT,Geo_BLKGRP,Geo_CONCIT,Geo_AIANHH,Geo_AIANHHFP,Geo_AIHHTLI,Geo_AITS,Geo_ANRC,Geo_CBSA,Geo_CSA,Geo_METDIV,Geo_MACC,Geo_MEMI,Geo_NECTA,Geo_CNECTA,Geo_NECTADIV,Geo_UA,Geo_CDCURR,Geo_SLDU,Geo_SLDL,Geo_ZCTA3,Geo_ZCTA5,Geo_SUBMCD,Geo_SDELM,Geo_SDSEC,Geo_SDUNI,Geo_UR,Geo_PCI,Geo_PUMA5,Geo_NAME,Geo_BTTR,Geo_BTBG,Geo_PLACESE,SE_A00001_001,Graduates,Grad Per Capita
+53001,"Adams County, Washington",wa,050,00,,,,53,001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Adams County,,,,20557,1240,6032
+53003,"Asotin County, Washington",wa,050,00,,,,53,003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Asotin County,,,,22370,714,3192
+53005,"Benton County, Washington",wa,050,00,,,,53,005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Benton County,,,,207560,10684,5147
+53007,"Chelan County, Washington",wa,050,00,,,,53,007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chelan County,,,,79076,3523,4455
+53009,"Clallam County, Washington",wa,050,00,,,,53,009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Clallam County,,,,77333,2777,3591
+53011,"Clark County, Washington",wa,050,00,,,,53,011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Clark County,,,,504091,23941,4749
+53013,"Columbia County, Washington",wa,050,00,,,,53,013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Columbia County,,,,3980,54,1357
+53015,"Cowlitz County, Washington",wa,050,00,,,,53,015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cowlitz County,,,,110621,5054,4569
+53017,"Douglas County, Washington",wa,050,00,,,,53,017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Douglas County,,,,43189,2293,5309
+53019,"Ferry County, Washington",wa,050,00,,,,53,019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ferry County,,,,7260,274,3774
+53021,"Franklin County, Washington",wa,050,00,,,,53,021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Franklin County,,,,96692,6410,6629
+53023,"Garfield County, Washington",wa,050,00,,,,53,023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Garfield County,,,,2310,203,8788
+53025,"Grant County, Washington",wa,050,00,,,,53,025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Grant County,,,,99145,5808,5858
+53027,"Grays Harbor County, Washington",wa,050,00,,,,53,027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Grays Harbor County,,,,75672,3098,4094
+53029,"Island County, Washington",wa,050,00,,,,53,029,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Island County,,,,86510,3079,3559
+53031,"Jefferson County, Washington",wa,050,00,,,,53,031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jefferson County,,,,33006,642,1945
+53033,"King County, Washington",wa,050,00,,,,53,033,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,King County,,,,2254371,94992,4214
+53035,"Kitsap County, Washington",wa,050,00,,,,53,035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kitsap County,,,,275411,11287,4098
+53037,"Kittitas County, Washington",wa,050,00,,,,53,037,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kittitas County,,,,44424,3938,8865
+53039,"Klickitat County, Washington",wa,050,00,,,,53,039,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Klickitat County,,,,22798,810,3553
+53041,"Lewis County, Washington",wa,050,00,,,,53,041,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lewis County,,,,82663,3739,4523
+53043,"Lincoln County, Washington",wa,050,00,,,,53,043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lincoln County,,,,11036,576,5219
+53045,"Mason County, Washington",wa,050,00,,,,53,045,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mason County,,,,66053,2799,4238
+53047,"Okanogan County, Washington",wa,050,00,,,,53,047,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Okanogan County,,,,42336,1596,3770
+53049,"Pacific County, Washington",wa,050,00,,,,53,049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pacific County,,,,23396,896,3830
+53051,"Pend Oreille County, Washington",wa,050,00,,,,53,051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pend Oreille County,,,,13570,517,3810
+53053,"Pierce County, Washington",wa,050,00,,,,53,053,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pierce County,,,,918993,41637,4531
+53055,"San Juan County, Washington",wa,050,00,,,,53,055,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,San Juan County,,,,18001,567,3150
+53057,"Skagit County, Washington",wa,050,00,,,,53,057,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Skagit County,,,,129480,5852,4520
+53059,"Skamania County, Washington",wa,050,00,,,,53,059,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Skamania County,,,,12118,461,3804
+53061,"Snohomish County, Washington",wa,050,00,,,,53,061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Snohomish County,,,,828337,36265,4378
+53063,"Spokane County, Washington",wa,050,00,,,,53,063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spokane County,,,,538711,25731,4776
+53065,"Stevens County, Washington",wa,050,00,,,,53,065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stevens County,,,,46774,2019,4317
+53067,"Thurston County, Washington",wa,050,00,,,,53,067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Thurston County,,,,294272,12895,4382
+53069,"Wahkiakum County, Washington",wa,050,00,,,,53,069,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wahkiakum County,,,,4476,106,2368
+53071,"Walla Walla County, Washington",wa,050,00,,,,53,071,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Walla Walla County,,,,62150,4148,6674
+53073,"Whatcom County, Washington",wa,050,00,,,,53,073,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Whatcom County,,,,226523,11834,5224
+53075,"Whitman County, Washington",wa,050,00,,,,53,075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Whitman County,,,,47141,5489,11644
+53077,"Yakima County, Washington",wa,050,00,,,,53,077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yakima County,,,,256143,14557,5683
