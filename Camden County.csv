@@ -1,12 +1,12 @@
 Geo_FIPS,Geo_QName,Geo_STUSAB,Geo_SUMLEV,Geo_GEOCOMP,Geo_US,Geo_REGION,Geo_DIVISION,Geo_STATE,Geo_COUNTY,Geo_COUSUB,Geo_PLACE,Geo_TRACT,Geo_BLKGRP,Geo_CONCIT,Geo_AIANHH,Geo_AIANHHFP,Geo_AIHHTLI,Geo_AITS,Geo_ANRC,Geo_CBSA,Geo_CSA,Geo_METDIV,Geo_MACC,Geo_MEMI,Geo_NECTA,Geo_CNECTA,Geo_NECTADIV,Geo_UA,Geo_CDCURR,Geo_SLDU,Geo_SLDL,Geo_ZCTA3,Geo_ZCTA5,Geo_SUBMCD,Geo_SDELM,Geo_SDSEC,Geo_SDUNI,Geo_UR,Geo_PCI,Geo_PUMA5,Geo_NAME,Geo_BTTR,Geo_BTBG,Geo_PLACESE,Drop Out rate ,Per capita income,Living in poverty
-3401050,"Audubon Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,01050,,,,Audubon Borough School District,,,,7.9%,"$44,311",2.20%
-3401620,"Berlin Township School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,01620,,,,Berlin Township School District,,,,0.0%,"$38,124",0.00%
-3402370,"Brooklawn Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,02370,,,,Brooklawn Borough School District,,,,8.9%,"$32,049",11.70%
-3403420,"Collingswood Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,03420,,,,Collingswood Borough School District,,,,0.0%,"$54,456",11.40%
-3406330,"Haddon Heights Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,06330,,,,Haddon Heights Borough School District,,,,6.10%,"$59,798",4.20%
-3408280,"Laurel Springs Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,08280,,,,Laurel Springs Borough School District,,,,0.00%,"$42,094",4.80%
-3408340,"Lawnside Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,08340,,,,Lawnside Borough School District,,,,0.0%,"$42,951",10.30%
-3408640,"Lindenwold Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,08640,,,,Lindenwold Borough School District,,,,3.9%,"$28,628",44.30%
-3409960,"Merchantville Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09960,,,,Merchantville Borough School District,,,,0.0%,"$41,244",26.50%
-3402640,"Camden City School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,02640,,,,Camden City School District,,,,7.6%,"$18,914",42.5%
+3401050,"Audubon Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,01050,,,,Audubon Borough School District,,,,7.9,44311.00,2.20
+3401620,"Berlin Township School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,01620,,,,Berlin Township School District,,,,0,38124.00,0.00
+3402370,"Brooklawn Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,02370,,,,Brooklawn Borough School District,,,,8.9,32049.00,11.70
+3403420,"Collingswood Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,03420,,,,Collingswood Borough School District,,,,0,54456.00,11.40
+3406330,"Haddon Heights Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,06330,,,,Haddon Heights Borough School District,,,,6.1,59798.00,4.20
+3408280,"Laurel Springs Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,08280,,,,Laurel Springs Borough School District,,,,0,42094.00,4.80
+3408340,"Lawnside Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,08340,,,,Lawnside Borough School District,,,,0,42951.00,10.30
+3408640,"Lindenwold Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,08640,,,,Lindenwold Borough School District,,,,3.9,28628.00,44.30
+3409960,"Merchantville Borough School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09960,,,,Merchantville Borough School District,,,,0,41244.00,26.50
+3402640,"Camden City School District, New Jersey",nj,970,00,,,,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,02640,,,,Camden City School District,,,,7.6,18914.00,42.50
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
